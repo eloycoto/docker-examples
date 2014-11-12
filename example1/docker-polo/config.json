@@ -1,0 +1,18 @@
+{
+  "author": "Alexandre González",
+  "title": "polo blog",
+
+  "url": "http://example.com",
+  "favicon": "/static/favicon.ico",
+
+  "showArchive": true,
+  "showCategories": true,
+  "showTags": true,
+
+  "paginationSize": 2,
+
+  "disqusSitename": "poloChangeThis",
+  "googleAnalyticsId": "UA-12345678-9",
+  "shareThisPublisher": "db740e9c-aaa-bbb-yyyy-5d257e1ea7f8"
+}
+
